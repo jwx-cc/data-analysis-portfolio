@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# 数据文件（体积大，请从 Kaggle 下载）
+data/
+*.csv
+*.zip
+
+# BI 文件
+*.pbix
+*.xlsx
+*.xls
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
